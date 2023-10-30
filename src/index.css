@@ -11,3 +11,54 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#navobar
+{
+  position: fixed;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.Sidebar
+{
+  width: 200px;
+  text-align: left;
+  height: 99vh;
+  padding:70px 20px;
+  position: fixed;
+
+}
+table
+{
+  width: 100% !important;
+  margin-left: 100px;
+}
+#h_product
+{
+  text-align: left;
+  padding: 10px 0px;
+  padding-top: 80px;
+  margin-left: 100px;
+}
+#btn_product
+{
+  float: left;
+  padding: 10px 50px;
+  border-radius: 10px;
+  border: none;
+  background-color:rgb(75, 113, 150);
+  color: white;
+  margin: 20px;
+  margin-left: 100px;
+
+}
+#tbl_btn
+{
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+#seccontainer
+{
+  padding: 70px 30px;
+  margin-left: 190px;
+}
